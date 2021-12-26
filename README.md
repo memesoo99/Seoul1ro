@@ -1,5 +1,5 @@
 # Seoul1ro
-## Junction X Seoul 2021  
+## Junction X Seoul 2021 ⭐️2nd Place⭐️
 ### SI Analysis track  
 
 ## Idea  
