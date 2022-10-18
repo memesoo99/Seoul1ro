@@ -4,14 +4,14 @@
 
 ## Idea  
 ### 🚒Fire station Loacation Analysis🔥  
-Provide a recommendation on fire station location in areas where skyscrapers and houses are concentrated.
+Provide recommendation on fire station location(but not limited to) in areas where building and houses are concentrated.
 The importance of providing rapid fire service is highlighted because citizens' safety is exposed due to disasters.
 Service analysis is needed for efficient fire station location to resolve disaster safety blind spots and provide equal fire service.  
 
 ### 💡Proposal Algorithm  
-* **Scale for fire station**  
+* **Scaling land for fire station**  
 Determine if the space is large enough for a fire station.  
-* **Adjacent to dense residential areas**  
+* **Population density and accessibility from residential areas**  
 In areas where houses are concentrated, providing rapid fire swervice becomes more important.  
 * **The ratio of the area of the road to the building**  
 Calculate the ratio of the area of the road to the building to determine if the passage is guaranteed.  
