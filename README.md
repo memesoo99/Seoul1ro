@@ -1,6 +1,6 @@
-# Seoul1ro
+## Team Seoul1ro
 ## Junction X Seoul 2021 ⭐️2nd Place⭐️
-### SI Analysis track  
+SI Analysis track  
 
 ## Idea  
 ### 🚒Fire station Loacation Analysis🔥  
